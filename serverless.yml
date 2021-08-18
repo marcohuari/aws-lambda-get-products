@@ -11,7 +11,5 @@ provider:
   lambdaHashingVersion: 20201221
 
 functions:
-  first:
-    handler: src/first.hello
-  second:
-    handler: src/second.hello
+  index:
+    handler: src/index.getProducts
