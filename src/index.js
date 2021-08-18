@@ -21,5 +21,10 @@ const products = function () {
             id: 2,
             name: 'Arroz a la cubana',
             price: 8.5
+        },
+        {
+            id: 3,
+            name: 'Pizza Vegetariana',
+            price: 25.5
         }];
 }
