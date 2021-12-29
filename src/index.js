@@ -36,6 +36,11 @@ const products = function () {
             id: 5,
             name: 'Rocoto Relleno',
             price: 35.0
+        },
+        {
+            id: 6,
+            name: 'Ceviche',
+            price: 15.5
         }
     ];
 }
