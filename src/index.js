@@ -31,6 +31,11 @@ const products = function () {
             id: 4,
             name: 'Pato en aji',
             price: 25.5
+        },
+        {
+            id: 5,
+            name: 'Rocoto Relleno',
+            price: 35.0
         }
     ];
 }
